@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&display=swap');
+body{
+    font-family: 'Are You Serious', cursive;
+}
+.swedish{
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    
+    padding: 3rem;
+
+}
+.button{
+ background-color: #58F3D1;
+padding: 1 rem;
+text-align: center;
+}
+.about{
+padding: 1rem;
+
+  
+}
+
+
+.body{
+    background-color: #58F3D1;
+}
